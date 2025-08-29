@@ -62,7 +62,7 @@ jobs:
           name: "BanLogger ${{ env.VERSION }}"
           tag: ${{ env.VERSION }}
           prerelease: true
-          header: "## Release Notes for VRCLogger ${{ env.VERSION }}"
+          header: "## Release Notes for BanLogger ${{ env.VERSION }}"
 
       - name: Save Release Notes
         run: |

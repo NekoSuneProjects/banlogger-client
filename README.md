@@ -18,3 +18,8 @@ Requires NodeJS
 Cant give u setup so you have to find that out yourself depoends your system
 
 <!-- GitAds-Verify: HF44SXGR87SQ9Y9C5UNWPLQHC4QHCAG6 -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=nekosuneprojects/banlogger-client@github)](https://gitads.dev/v1/ad-track?source=nekosuneprojects/banlogger-client@github)
+
+

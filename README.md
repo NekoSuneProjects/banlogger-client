@@ -16,3 +16,5 @@ Have fun :)
 Requires NodeJS
 
 Cant give u setup so you have to find that out yourself depoends your system
+
+<!-- GitAds-Verify: HF44SXGR87SQ9Y9C5UNWPLQHC4QHCAG6 -->
